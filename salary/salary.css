@@ -1,0 +1,43 @@
+h2.heading
+{
+	
+ font-family:verdana;
+ font-weight:normal;
+ font-size:15pt;
+ margin-top:0px;
+    
+}
+
+h1.heading
+{
+	font-family:verdana;
+	font-size:20pt;
+	
+}
+
+body
+{
+	font-family:verdana;
+	font-size:13pt;
+	text-align:center;
+	
+}
+
+input[type=submit]
+{
+	font-size:14pt;
+	font-family:Verdana;
+}
+
+table
+{
+	text-align:center;
+	margin:auto;
+	
+}
+
+tr.collapsed
+{
+	display:none;
+	color:red;
+}
