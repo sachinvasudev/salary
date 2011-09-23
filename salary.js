@@ -1,5 +1,4 @@
-// this is my comment
-//don't play with this
+
 
 window.onload = function() {
 
@@ -578,5 +577,3 @@ function reset()
 	
 }
 
-//my comment at the end of line 
-//this is done in different repo before updating
